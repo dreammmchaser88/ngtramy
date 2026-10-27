@@ -14,7 +14,7 @@ try {
     obj.Attention = "Chúc mừng bạn! Vui lòng không sử dụng chúng dưới mục đích thương mại!";
 
     var FAR_FUTURE = "9999-01-09T10:10:14Z";
-    var PAST = "2025-05-05T10:10:14Z";
+    var PAST = "2004-09-21T10:10:14Z";
 
     function makeSub(productId, priceAmount, priceCurrency) {
         return {
